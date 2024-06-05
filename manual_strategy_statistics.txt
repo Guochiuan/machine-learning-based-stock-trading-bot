@@ -1,0 +1,7 @@
+                               Cumulative Return  ...  Mean of Daily Returns
+Benchmark_in_sample                    -0.037925  ...               0.000075
+Manual_Strategy_in_sample               0.173817  ...               0.000425
+Benchmark_out_of_sample                -0.133735  ...              -0.000247
+Manual_Strategy_out_of_sample          -0.016018  ...               0.000003
+
+[4 rows x 3 columns]

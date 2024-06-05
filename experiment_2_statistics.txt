@@ -1,0 +1,4 @@
+                Cumulative Return  STD of Daily Returns
+impact = 0.001           1.396795              0.010301
+impact = 0.005           1.726560              0.009519
+impact = 0.025           1.271057              0.009777
