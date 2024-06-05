@@ -1,5 +1,5 @@
 # Machine-learning-based-stock-trading-bot
-Our project aims to rigorously evaluate the effectiveness of three key technical indicators in predicting stock prices. Here’s our structured approach:
+Our project aims to rigorously evaluate the effectiveness of technical indicators and machine learning techniques in predicting stock prices. Here’s our structured approach:
 
 ### Manual Strategy Construction:
 We will construct a manual trading strategy based on technical indicators.
