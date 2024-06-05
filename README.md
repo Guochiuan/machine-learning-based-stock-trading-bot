@@ -9,7 +9,10 @@ If the indicators consistently signal optimal buy and sell times, our manual str
 We’ll employ machine learning techniques to create a robust learner using the same technical indicators.
 By rigorously testing its performance, we’ll determine whether these indicators indeed possess predictive power.
 Anticipating success, we expect the strategy learner to outperform the benchmark both in-sample (historical data) and out-of-sample (future data).
+
+Please read the report.pdf for experiment details.
 ### Real-Time Trading Bot Implementation:
 Building upon our findings from the experiments, we’ll develop a real-time stock trading bot.
 This bot will utilize the ETrade API and Yahoo Finance API for seamless execution.
 Our ultimate goal is to achieve consistent and profitable trading outcomes.
+
